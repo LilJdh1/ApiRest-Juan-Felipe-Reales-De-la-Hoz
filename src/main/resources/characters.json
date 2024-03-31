@@ -1,0 +1,56 @@
+[
+  {
+    "id" : 1,
+    "name" : "Goku",
+    "power" :"Kame Hame Ha"
+  },
+  {
+    "id" : 2,
+    "name" : "Vegeta",
+    "power" : "Final Flash"
+  },
+  {
+    "id" : 3,
+    "name" : "Bills",
+    "power" : "Hakai"
+  },
+  {
+    "id" : 4,
+    "name" : "Piccolo",
+    "power" : "MakanKosappo"
+  },
+  {
+    "id" : 5,
+    "name" : "Krilin",
+    "power" : "kienzan"
+  },
+  {
+    "id" : 6,
+    "name" : "Tanjiro Kamado",
+    "power" : "Danza del dios del fuego"
+  },
+  {
+    "id" : 7,
+    "name" : "Inosuke hashibira",
+    "power" : "Respiracion de la bestia"
+  },
+  {
+    "id" : 8,
+    "name" : "Zenitsu Agatsuma",
+    "power" : "Respiracion del rayo"
+  },
+  {
+    "id" : 9,
+    "name" : "Rengoku",
+    "power" : "Respiracion de la llama"
+  },
+  {
+    "id" : 10,
+    "name" : "Tengen Uzui",
+    "power" : "Respiracion del sonido"
+  }
+
+
+
+
+]
