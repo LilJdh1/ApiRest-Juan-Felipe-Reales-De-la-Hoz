@@ -1,1 +1,1 @@
-Se sube el proyecto API REST trabajado en clase, con la descripcion de diferentes personajes de dos animes reconocidos en el mundo, Dragon Ball Z y Kimetsu no Yaiba, desarrollado con Java y SpringBoot y objetos creados con formato JSON
+El proyecto de API REST de Baki Hanma Fighters es una aplicación desarrollada en Java utilizando el framework Spring Boot. Esta API proporciona información detallada sobre los peleadores destacados en la primera temporada de la serie "Baki Hanma".
